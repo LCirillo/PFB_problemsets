@@ -1,0 +1,138 @@
+    1  cd /bin/
+    2  ls
+    3  ls -l
+    4  ls -lt
+    5  date ; sleep 2 ; date
+    6  ls -F
+    7  ~
+    8  cd~
+    9  curl -O https://raw.githubusercontent.com/prog4biol/pfb2019/master/files/cuffdiff.txt
+   10  wget -O https://raw.githubusercontent.com/prog4biol/pfb2019/master/files/cuffdiff.txt
+   11  cd ~
+   12  curl -O https://raw.githubusercontent.com/prog4biol/pfb2019/master/files/cuffdiff.txt
+   13  grep Chr7 cuffdiff.txt > fav_chr_cuffdiff.txt
+   14  grep Chr9 cuffdiff.txt >> fav_chr_cuffdiff.txt
+   15  cat blablabla.txt
+   16  cat blablabla.txt 2> errors.txt
+   17  pwd
+   18  cd ..
+   19  cd~
+   20  cd ~
+   21  #home directory 
+   22  ~ cd
+   23  #print hoe directory
+   24  pwd
+   25  #go up one
+   26  ..
+   27  cd ..
+   28  ls
+   29  ls - aF
+   30  ls - F
+   31  ls -F
+   32  ~ cd
+   33  man mkdir
+   34  mkdir problemset
+   35  ~ cd
+   36  man mkdir
+   37  mkdir [m] problemset
+   38  man mkdir
+   39  mkdir [-m] problemset
+   40  ls
+   41  cd ~
+   42  ls
+   43  mkdir problemset
+   44  ls -F
+   45   problemset ~
+   46  pproblemset ~
+   47  5;2 cd/problemset
+   48  5;2 cd/ problemset
+   49* cd 
+   50  5;2 cd / problemset
+   51  5;2 cd  problemset
+   52  5;2 cd /problemset
+   53  5;2 cd /problemset ~
+   54  cd problemset
+   55  pwd
+   56  wget https://raw.githubusercontent.com/prog4biol/pfb2019/master/files/sequences.nt.fa
+   57  wc -l
+   58  man wc
+   59  ls problemset
+   60  ls -F
+   61  wc -l [sequences.nt.fa]
+   62  pwd
+   68  head sequences.nt.fa 
+   80  tail  sequences.nt.fa 
+   81  tail -n 3  sequences.nt.fa 
+  113  grep ">" -c  sequences.nt.fa
+  114  less sequences.nt.fa 
+  116  mv cancer_genes.fasta sequences.nt.fa 
+  117  mv sequences.nt.fa cancer_genes.fasta 
+  118  less cancer_genes.fasta 
+  120  cd
+  121  mkdir 2019_PFB
+  122  cd/2019_PFB
+  123  cd 2019_PFB
+  124  git clone https://github.com/LCirillo/PFB_problemsets.git
+  126  git init
+  127  git remote add
+  128  git status
+  129  ls
+  130  PFB_problemsets/
+  131  PFB_problemsets
+  132  git status
+  134  mv problemsets PFB_problemsets
+  143  2019_PFB PFB_problemset
+  146  cd PFB_problemsets
+  147  git status
+  148  git add cancer_genes.fasta 
+  152  git commit -m 'adding previous problem set files'
+  153  git push
+  159  mkdir files
+  161  mv cancer_genes.fasta files
+  162  cd files
+  165  git add files/cancer_genes.fasta
+  166  mv cancer_genes.fasta 2_cancer_genes.fasta
+  174  git add files/cancer_genes.fasta
+  180  cd PFB_problemsets
+  181  git add files/2_cancer_genes.fasta
+  182  git commit -m 'adding 2_cancer_genes.fasta'
+  184  git push
+  185  vi mysequences.txt
+  190  cd 2019_PFB
+  191  ls
+  193  cd PFB_problemsets
+  194  cd problemset
+  195  cd
+  196  cd problemset
+  199  cd PFB_problemsets
+  200  cd 2019_PFB
+  201  cd PFB_problemsets
+  202  git add mysequences.txt 
+  203  git  commit -m 'adding mysequences.txt'
+  204  git push
+  205  mkdir fastas
+  206  mv cancer_genes.fasta fastas
+  207  cd fastas
+  208  ls
+  210  cd ..
+  211  rm cancer_genes.fasta
+  212  git status
+  213  git add fastas
+  214   commit -m 'adding fastas'
+  215  git  commit -m 'adding fastas'
+  216  git push
+  225  rm oops2.txt
+  231  git add oops2.txt
+  232  git commit 'removing oops2.txt'
+  233  git push
+  234  ls
+  235  git add oops2.txt
+  236  git status
+  237  git commit -m 'removing oops2.txt'
+  238  git push
+  239  vi never
+  240  git add never
+  241  git status
+  242  git reset never
+  243  git status
+  246  history >unixBasics.history.txt
