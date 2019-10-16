@@ -1,0 +1,79 @@
+    1  curl -s 'https://api.macapps.link/en/firefox-chrome' | sh
+    2  gcc
+    3  xcode --version
+    4  conda
+    5  nano test.py
+    6  xcode-select --version
+    7  xcode-select --version
+    8  /usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
+    9  which g++
+   10  brew install wget
+   11  sudo
+   12  sudo brew install wget
+   13  sudo chown -R $(whoami) /usr/local/lib/pkgconfig
+   14  chmod u+w /usr/local/lib/pkgconfig
+   15  brew install wget
+   16  brew install emacs
+   17  brew install git
+   18  brew install nano
+   19  curl https://raw.githubusercontent.com/scopatz/nanorc/master/install.sh | sh
+   20  cd ~/.nanorc
+   21  echo "include $install_path/*.nanorc" >> ~/.nanorc or
+   22  echo "include $install_path/*.nanorc" >> ~/.nanorc
+   23  cat ~/.nanorc
+   24  nano ~/.nanorc
+   25  cat ~/.nanorc
+   26  nano
+   27  bash ~/Downloads/Anaconda3-2019.07-MacOSX-x86_64.sh 
+   28  ls
+   29  cd Downloads
+   30  ls
+   31  Anaconda3-2019.07-MacOSX-x86_64.sh
+   32  ./Anaconda3-2019.07-MacOSX-x86_64.sh
+   33  conda
+   34  conda
+   35  conda
+   36  conda
+   37  conda update
+   38  conda
+   39  wget
+   40  ls
+   41  cd ..
+   42  ls
+   43  ls -allt
+   44  cd info/
+   45  ls
+   46  ls -alt
+   47  nano .bash_profile 
+   48  cd ..
+   49  ls
+   50  cd info
+   51  ls
+   52  nano ./bashrc
+   53  ls
+   54  ls-l
+   55  ls -alt
+   56  cp .bash_profile Desktop
+   57  ls
+   58  pwd
+   59  host miniserve2.cshl.edu 
+   60  nano test.py
+   61  nano /Users/info/.nanorc 
+   62  git clone http://github.com/LCirillo/PFB_problemsets
+   63  print("Hello World")
+   64  print("Hello World")
+   65  vi
+   66  vi Hello
+   67  vi Hello.py
+   68  mv Hello.py PFB_problemsets
+   69  % python3 Hello.py
+   70  cd PFB_problemset
+   71  cd PFB_problemsets
+   72  % python3 Hello.py
+   73  $ python3
+   74   python3
+   75  python3
+   76  cd PFB_problemsets
+   77  history < Python1.1_History
+   78  history < Python1.1_History.txt
+   79  history >Python1.1_History.txt
