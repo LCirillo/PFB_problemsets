@@ -79,29 +79,33 @@
    79  history
    80  history < Python1.1
    81  history < Python1.1.txt
-   82  vi MyName.py
-   83  #!/usr/bin/env python3
-   84  MyName.py
-   85  %MyName.py
-   86  % MyName.py
-   87  % Python3 MyName.py
-   88  % python3 MyName.py
-   89   python3 MyName.py
-   90  chmod +x MyName.py 
-   91  MyName.py
-   92  ls -l
-   93  ./MyName.py 
-   94  env MyName.py 
-   95  vi MyName.py 
-   96  vi MyName.py 
-   97   MyName.py 
-   98  ./MyName.py 
-   99  vi MyName.py
-  100  ./MyName.py 
-  101  vi MyName.py
-  102  ./MyName.py 
-  103  vi MyName.py 
-  104  ./MyName.py 
-  105  vi MyName.py 
-  106  ./MyName.py 
-  107  history >Python1.2_History
+   82  python3
+   83  cd PFB_problemsets
+   84  history < Python1.1_History
+   85  history < Python1.1_History.txt
+   86  history >Python1.1_History.txt
+   87  ls
+   88  mv Python1.1_History.txt Python_1
+   89  git status
+   90  git add Pyton_1
+   91  git add Python_1
+   92  commit -m "Add Python_1"
+   93  commit -m "adding Python_1"
+   94  git commit -m "adding Python_1"
+   95  git push
+   96  git push
+   97  git push
+   98  git push
+   99  git push
+  100  git push
+  101  git push
+  102  git push
+  103  python3
+  104  vi Python_1.3.py
+  105  ./Python_1.3.py
+  106  chmod +x Python_1.3.py
+  107  ./Python_1.3.py
+  108  ./Python_1.3.py Luca
+  109  vi Python_1.3.py
+  110  ./Python_1.3.py Luca Blue Sport Cat
+  111  history >Python1.3_History.txt
