@@ -1,0 +1,445 @@
+    1  curl -s 'https://api.macapps.link/en/firefox-chrome' | sh
+    2  gcc
+    3  xcode --version
+    4  conda
+    5  nano test.py
+    6  xcode-select --version
+    7  xcode-select --version
+    8  /usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
+    9  which g++
+   10  brew install wget
+   11  sudo
+   12  sudo brew install wget
+   13  sudo chown -R $(whoami) /usr/local/lib/pkgconfig
+   14  chmod u+w /usr/local/lib/pkgconfig
+   15  brew install wget
+   16  brew install emacs
+   17  brew install git
+   18  brew install nano
+   19  curl https://raw.githubusercontent.com/scopatz/nanorc/master/install.sh | sh
+   20  cd ~/.nanorc
+   21  echo "include $install_path/*.nanorc" >> ~/.nanorc or
+   22  echo "include $install_path/*.nanorc" >> ~/.nanorc
+   23  cat ~/.nanorc
+   24  nano ~/.nanorc
+   25  cat ~/.nanorc
+   26  nano
+   27  bash ~/Downloads/Anaconda3-2019.07-MacOSX-x86_64.sh 
+   28  ls
+   29  cd Downloads
+   30  ls
+   31  Anaconda3-2019.07-MacOSX-x86_64.sh
+   32  ./Anaconda3-2019.07-MacOSX-x86_64.sh
+   33  conda
+   34  conda
+   35  conda
+   36  conda
+   37  conda update
+   38  conda
+   39  wget
+   40  ls
+   41  cd ..
+   42  ls
+   43  ls -allt
+   44  cd info/
+   45  ls
+   46  ls -alt
+   47  nano .bash_profile 
+   48  cd ..
+   49  ls
+   50  cd info
+   51  ls
+   52  nano ./bashrc
+   53  ls
+   54  ls-l
+   55  ls -alt
+   56  cp .bash_profile Desktop
+   57  ls
+   58  pwd
+   59  host miniserve2.cshl.edu 
+   60  nano test.py
+   61  nano /Users/info/.nanorc 
+   62  git clone http://github.com/LCirillo/PFB_problemsets
+   63  print("Hello World")
+   64  print("Hello World")
+   65  vi
+   66  vi Hello
+   67  vi Hello.py
+   68  mv Hello.py PFB_problemsets
+   69  % python3 Hello.py
+   70  cd PFB_problemset
+   71  cd PFB_problemsets
+   72  % python3 Hello.py
+   73  $ python3
+   74   python3
+   75  python 3
+   76  python3
+   77  cd PFB_problemsets
+   78  mkdir Python_1
+   79  history
+   80  history < Python1.1
+   81  history < Python1.1.txt
+   82  python3
+   83  cd PFB_problemsets
+   84  history < Python1.1_History
+   85  history < Python1.1_History.txt
+   86  history >Python1.1_History.txt
+   87  ls
+   88  mv Python1.1_History.txt Python_1
+   89  git status
+   90  git add Pyton_1
+   91  git add Python_1
+   92  commit -m "Add Python_1"
+   93  commit -m "adding Python_1"
+   94  git commit -m "adding Python_1"
+   95  git push
+   96  git push
+   97  git push
+   98  git push
+   99  git push
+  100  git push
+  101  git push
+  102  git push
+  103  vi MyName.py
+  104  MyName.py
+  105  %MyName.py
+  106  % MyName.py
+  107  % Python3 MyName.py
+  108  % python3 MyName.py
+  109   python3 MyName.py
+  110  chmod +x MyName.py 
+  111  MyName.py
+  112  ls -l
+  113  ./MyName.py 
+  114  env MyName.py 
+  115  vi MyName.py 
+  116  vi MyName.py 
+  117   MyName.py 
+  118  ./MyName.py 
+  119  vi MyName.py
+  120  ./MyName.py 
+  121  vi MyName.py
+  122  ./MyName.py 
+  123  vi MyName.py 
+  124  ./MyName.py 
+  125  vi MyName.py 
+  126  ./MyName.py 
+  127  history >Python1.2_History
+  128  mv Python1.2_History PFB_problemsets/
+  129  mv Python1.2_History Python_1
+  130  cd PFB_problemsets/
+  131  mv Python1.2_History Python_1
+  132  git status
+  133  git add Python_1/Python1.2_History
+  134  git commint -m 'adding Python_1/Python1.2_History'
+  135  git commit -m 'adding Python_1/Python1.2_History'
+  136  git push
+  137  cd Python_1/
+  138  mv Python1.2_History Python1.2_History.txt
+  139  git add Python1.2_History.txt 
+  140  git commit -m 'adding Python1.2_History.txt'
+  141  git push
+  142  python3
+  143  vi Python_1.3.py
+  144  ./Python_1.3.py
+  145  chmod +x Python_1.3.py
+  146  ./Python_1.3.py
+  147  ./Python_1.3.py Luca
+  148  vi Python_1.3.py
+  149  ./Python_1.3.py Luca Blue Sport Cat
+  150  history >Python1.3_History.txt
+  151  mv Python1.3_History.txt PFB_problemsets/Python_1/
+  152  cd PFB_problemsets/
+  153  cd
+  154  mv Python_1.3.py PFB_problemsets/Python_1/
+  155  git status
+  156  cd PFB_problemsets/
+  157  git status
+  158  mv Hello.py Python_1/
+  159  git add Hello.py Python_1.3_History.txt Python_1.3.py
+  160  git status
+  161  git add Hello.py Python_1.3_History.txt Python_1.3.py
+  162  git add Python_1
+  163  git commit -m 'adding Python_1'
+  164  git push
+  165  cd PFB_problemsets/
+  166  cd Python_1/
+  167  python3 Hello.py
+  168  cd PFB_problemsets/
+  169  vi Python1.2.py
+  170  chmod +x Python1.2.py 
+  171  ./Python1.2.py 
+  172  vi Python1.2.py 
+  173  ./Python1.2.py 
+  174  git status
+  175  ls
+  176  cd Python_1/
+  177  cd ..
+  178  mv Python1.2.py Python_1/
+  179  git add Python_1/
+  180  git commit -m 'adding Python_1/'
+  181  git push
+  182  python3
+  183  cd PFB_problemsets/
+  184  cd Python_1/
+  185  history > Python2.1234_History.txt
+  186  git add Python2.1234_History.txt 
+  187  git commit -m 'adding Python2.1234_History.txt'
+  188  git push
+  189  vi
+  190  vi Python2.5.py
+  191  chmod +x Python2.5.py 
+  192  ./Python2.5.py 3
+  193  ./Python2.5.py
+  194  ./Python2.5.py '3'
+  195  vi Python2.5.py
+  196  ./Python2.5.py 3
+  197  vi Python2.5.py 
+  198  ./Python2.5.py 3
+  199  vi Python2.5.py 
+  200  ./Python2.5.py 3
+  201  history <Python2.5_History.txt
+  202  history >Python2.5_History.txt
+  203  cd PFB_problemsets/
+  204  mkdir Python_2
+  205  cd
+  206  mv Python2.5_History.txt Python_2
+  207  mv Python2.5.py Python_2
+  208  cd PFB_problemsets/
+  209  cd Python_1
+  210  mv Python2.1234_History.txt Python_2
+  211  git status
+  212  git add Python_2
+  213  git commit -m 'adding Python_2'
+  214  git push
+  215  git commit -m 'adding Python_2/'
+  216  vi Python2.7.py
+  217  chmod +x Python2.7.py 
+  218  ./Python2.7.py 1
+  219  vi Python2.7.py
+  220  ./Python2.7.py 1
+  221  vi Python2.7.py
+  222  ./Python2.7.py 1
+  223  ./Python2.7.py 0
+  224  ./Python2.7.py -1
+  225  history <Python2.7_History.txt
+  226  history >Python2.7_History.txt
+  227  mv Python2.7_History.txt PFB_problemsets/Python_2
+  228  mv Python2.7.py PFB_problemsets/Python_2
+  229  gc
+  230  cg
+  231  cd PFB_problemsets/
+  232  git status
+  233  git add Python_2/
+  234  git commit -m 'adding Python_2/'
+  235  git push
+  236  vi Python 2.8
+  237  vi Python 2.8
+  238  ls
+  239  vi Python
+  240  vi .vimrc
+  241  vi Python
+  242  mv Python Python2.9.py
+  243  chmod +x Python2.9.py 
+  244  ./Python2.9.py 3
+  245  vi Python2.9.py 
+  246  ./Python2.9.py 3
+  247  ./Python2.9.py 51
+  248  ./Python2.9.py -3
+  249  history >Python2.9_History.txt
+  250  mv Python2.9_History.txt PFB_problemsets/Python_2
+  251  mv Python2.9.py PFB_problemsets/Python_2
+  252  cd PFB_problemsets/
+  253  git add Python_2/
+  254  git commit -m 'adding Python_2/'
+  255  git push
+  256  cd PFB_problemsets/Python_2
+  257  Python2.8.py
+  258  vi Python2.8.py
+  259  vi Python2.9.py
+  260  vi Python2.9.py
+  261  vi
+  262  ./Python2.10.py 
+  263  ./Python2.10.py 49
+  264  vi Python2.10.py
+  265  vi Python2.9.py
+  266  mv Python2.9.py Python2.1_B.py 
+  267  mv Python2.10.py Python2.9.py 
+  268  mv Python2.1_B.py Python2.10.py 
+  269  vi Python2.10.py
+  270  ./Python2.10.py 49
+  271  history >Python2.10_History.txt
+  272  git status
+  273  cd..
+  274  .. cd
+  275  cd
+  276  cd PFB_problemsets/
+  277  git status
+  278  git add Python_2/
+  279  git commit -m Python_2/
+  280  git commit -m 'adding Python_2/'
+  281  git push
+  282  cd PFB_problemsets/Python_2
+  283  vi Python_2.10.py
+  284  vi Python2.10.py
+  285  vi Python2.11.py
+  286  chmod +x Python2.11.py
+  287  ./Python2.11.py 60
+  288  ./Python2.11.py 55
+  289  ./Python2.11.py 49
+  290  history >Python2.11_History.txt
+  291  cd
+  292  cd PFB_problemsets/
+  293  git add Python_2
+  294  git add Python_2/
+  295  git commit -m "adding Python_2/"
+  296  git push
+  297  cd PFB_problemsets/
+  298  cd Python_2
+  299  chmod +x Python2.10.py 
+  300  chmod +x Python2.11.py 
+  301  ./Python2.11.py 50
+  302  cd PFB_problemsets/Python_2
+  303  vi Python2.11.py
+  304  vi Python2.11.py
+  305  vi Python2.13.py
+  306  vi Python2.13.py
+  307  >chmod +x Python2.13.py
+  308  chmod +x Python2.13.py
+  309  ./Python2.13.py
+  310  vi Python2.13.py
+  311  ./Python2.13.py
+  312  vi Python2.13.py
+  313  ./Python2.13.py 13
+  314  vi Python2.13.py
+  315  ./Python2.13.py 13
+  316  vi Python2.13.py
+  317  ./Python2.13.py 13
+  318  vi Python2.13.py
+  319  ./Python2.13.py 13
+  320  ./Python2.13.py 55
+  321  ./Python2.13.py 58
+  322  ./Python2.13.py 57
+  323  ./Python2.13.py 0
+  324  ./Python2.13.py 50
+  325  ./Python2.13.py -50
+  326  ./Python2.13.py -56
+  327  history <Python2.13_History
+  328  history >Python2.13_History
+  329  ..
+  330  cd ..
+  331  git status
+  332  git add Python_2/
+  333  commit -m 'adding Python_2/'
+  334  git commit -m 'adding Python_2/'
+  335  git push
+  336  cd PFB_problemsets/
+  337  mkdir Python_3
+  338  vi Python3.2
+  339  mv Python3.2 Python3.2.py
+  340  chmod +x Python3.2.py 
+  341  ./Python3.2.py 
+  342  history <Python3.2_History.txt
+  343  history >Python3.2_History.txt
+  344  mv Python3.2.py Python_3
+  345  mv Python3.2_History.txt Python_3
+  346  git add Python_3
+  347  git add Python_3
+  348  git commit -m 'adding Python3/'
+  349  git push
+  350  cd PFB_problemsets/Python_3
+  351  vi Python3.2.py
+  352  mv Python3.4.py Python_3/..
+  353  mv Python3.4.py ..
+  354  cd ..
+  355  vi Python3.4.py 
+  356  chmod +x Python3.4.py 
+  357  ./Python3.4.py 
+  358  history >Python3.4_History.txt
+  359  mv Python3.4_History.txt Python_3/
+  360  mv Python3.4.py Python_3/
+  361  vi Python3.5.py
+  362  chmod +x Python3.5.py 
+  363  ./Python3.5.py 
+  364  mv Python3.5 PFB_problemsets/Python_3
+  365  mv Python3.5.py PFB_problemsets/Python_3
+  366  PFB_problemsets/
+  367  cd PFB_problemsets/
+  368  vi Python3.6.py
+  369  chmod +x Python3.6.py 
+  370  ./Python3.6.py 
+  371  history >Python3.56_History.txt
+  372  mv Python3.6.py Python_3/
+  373  mv Python3.56_History.txt Python_3/
+  374  cd Python_3
+  375  vi Python3.6.py 
+  376  vi Python3.7.py 
+  377  chmod +x Python3.7.py 
+  378  ./Python3.7.py 
+  379  history >Python3.567_History.txt
+  380  cd PFB_problemsets/
+  381  cd Python_3
+  382  vi Python3.8.py
+  383  chmod +x Python3.8.py 
+  384  ./Python3.8.py 
+  385  vi Python3.8.py
+  386  ./Python3.8.py 
+  387  vi Python3.8.py
+  388  ./Python3.8.py 
+  389  history >Python3.8_History.txt
+  390  cd ..
+  391  git status
+  392  git add Python_3/
+  393  git commit -m 'adding Python_3/'
+  394  git push
+  395  cd PFB_problemsets/Python_3
+  396  vi Python3.9.py
+  397  chmod +x Python3.9.py 
+  398  ./Python3.9.py 
+  399  vi Python3.9.py
+  400  vi Python3.9.py
+  401  ./Python3.9.py 
+  402  vi Python3.9.py
+  403  ./Python3.9.py 
+  404  vi Python3.9.py
+  405  ./Python3.9.py 
+  406  history >Python3.9_History.txt
+  407  cd PFB_problemsets/Python_3
+  408  vi Python3.10.py
+  409  chmod +x Python3.10.py 
+  410  ./Python3.10.py 
+  411  vi Python3.10.py
+  412  vi Python3.10.py
+  413  ./Python3.10.py 
+  414  vi Python3.10.py
+  415  ./Python3.10.py 
+  416  vi Python3.10.py
+  417  chmod +x Python3.11.py 
+  418  ./Python3.11.py 
+  419  vi Python3.10.py
+  420  vi Python3.11.py
+  421  mv Python3.11.py Python3.10.py
+  422  mv Python3.12.py Python3.11.py
+  423  ./Python3.11.py 
+  424  chmod +x Python3.11.py 
+  425  ./Python3.11.py 
+  426  history >Python3.1011_History.txt
+  427  vi Python3.11.py
+  428  cd PFB_problemsets/Python_3
+  429  vi Python3.11.py
+  430  vi Python3.12.py
+  431  chmod +x Python3.12.py
+  432  ./Python3.12.py
+  433  vi Python3.12.py
+  434  ./Python3.12.py
+  435  vi Python3.12.py
+  436  ./Python3.12.py
+  437  history >Python3.12_History.txt
+  438  cd ..
+  439  git add Python_3/
+  440  git commit 'adding Python_3/'
+  441  git commit -m  'adding Python_3/'
+  442  git push
+  443  cd PFB_problemsets/
+  444  python3
+  445  history >Python4.1_History.txt
